@@ -8,4 +8,4 @@ Open the file,
 Edit after all site URL, " ?comando= "
 You can use somo Linux commands after " ?comando = ". Commands like ls, pwd, cd, etc
 
-Example : http://www.site.com/*cmd.php5?comando=*ls
+Example : http://www.site.com/cmd.php5?comando=ls
